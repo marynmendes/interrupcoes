@@ -20,3 +20,5 @@ de interrupção e debouncing.
 • Botão A conectado à GPIO 5.
 • Botão B conectado à GPIO 6.
 
+-> Link do vídeo de demonstração do projeto
+https://youtube.com/shorts/d4ApofD8oyI
